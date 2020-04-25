@@ -4,5 +4,7 @@ This framework allow you to segment bubbles on images. If you want to segment fo
 
 If you want to see how was done the training prosess, open the notbook 'train_Mask_RCNN.ipynb', the code is adapted for colab.
 
+The notbook 'Comparative_evaluation.ipynb' compare the performances of Mask_RCNN with Unet.
+
 All the segmentation process is based on the framework 'Mask_RCNN' available here:
 https://github.com/matterport/Mask_RCNN
