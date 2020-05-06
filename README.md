@@ -1,6 +1,6 @@
 # bubble_segmentation_Mask_RCNN
 
-This framework allow you to segment bubbles on images. If you want to segment foam images from your device, run the notbook 'Mask_RCNN_automatic_segementation.ipynb' on colab, a window will open to select the images from your devise. The code is adapted for google colab (recommended to use it with google chrome).
+This framework allow you to segment bubbles on images. If you want to segment foam images from your device, run the notbook 'Mask_RCNN_automatic_segementation.ipynb' on colab, a window will open to select the images from your devise. After the automatic segmentation, you have the possibility to manually add the missed bubbles.
 
 If you want to see how was done the training prosess, open the notbook 'train_Mask_RCNN.ipynb', the code is adapted for colab.
 
